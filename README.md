@@ -6,7 +6,15 @@ This repository showcases the internships I have completed, reflecting my journe
 
 ## 💼 Internships
 
-### 1. **DevOps Developer**  
+### 1. **AWS Intern**  
+- **🏢 Organization**: Forage - Accenture  
+- **📅 Duration**: October 1, 2024 – December 30, 2024  
+- **⏳ Weeks**: 12 weeks  
+- **🛠 Skills**: AWS Elastic Beanstalk, EC2, RDS, S3, Route 53, Elastic Load Balancer, CodePipeline, Python, Bash  
+- **💻 Internship Type**: Virtual  
+- **🔗 Repository**: [AWS Hosting Architecture](https://github.com/Vasu10134/AWS-hosting-architecture)
+
+### 2. **DevOps Developer**  
 - **🏢 Organization**: Forage - Accenture  
 - **📅 Duration**: September 1, 2024 – November 30, 2024  
 - **⏳ Weeks**: 12 weeks  
@@ -14,7 +22,7 @@ This repository showcases the internships I have completed, reflecting my journe
 - **💻 Internship Type**: Virtual  
 - **🔗 Repository**: [accenture-forage](https://github.com/Vasu10134/accenture-forage)
 
-### 2. **JavaScript Developer**  
+### 3. **JavaScript Developer**  
 - **🏢 Organization**: CodSoft  
 - **📅 Duration**: March 25, 2024 – April 25, 2024  
 - **⏳ Weeks**: 4 weeks  
@@ -22,7 +30,7 @@ This repository showcases the internships I have completed, reflecting my journe
 - **💻 Internship Type**: Virtual  
 - **🔗 Repository**: [CodSoft_JS](https://github.com/Vasu10134/CodSoft_JS)
 
-### 3. **Java Developer**  
+### 4. **Java Developer**  
 - **🏢 Organization**: CodSoft  
 - **📅 Duration**: December 10, 2024 – January 10, 2025  
 - **⏳ Weeks**: 4 weeks  
@@ -30,12 +38,10 @@ This repository showcases the internships I have completed, reflecting my journe
 - **💻 Internship Type**: Virtual  
 - **🔗 Repository**: [CODSOFT_JAVA](https://github.com/Vasu10134/CODSOFT_JAVA)
 
-### 4. **C++ Developer**  
+### 5. **C++ Developer**  
 - **🏢 Organization**: CodSoft  
 - **📅 Duration**: January 20, 2024 – February 20, 2024  
 - **⏳ Weeks**: 4 weeks  
 - **🛠 Skills**: C++, Data Structures, Algorithms  
 - **💻 Internship Type**: Virtual  
 - **🔗 Repository**: [CodSoft_CPP](https://github.com/Vasu10134/CodSoft_CPP)
-
----
