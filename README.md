@@ -20,7 +20,7 @@ This repository showcases the internships I have completed, reflecting my journe
 - **⏳ Weeks**: 12 weeks  
 - **🛠 Skills**: Java, Spring Boot, Jenkins, Agile Development  
 - **💻 Internship Type**: Virtual  
-- **🔗 Repository**: [accenture-forage](https://github.com/Vasu10134/accenture-forage)
+- **🔗 Repository**: [Accenture Forage](https://github.com/Vasu10134/accenture-forage)
 
 ### 3. **JavaScript Developer**  
 - **🏢 Organization**: CodSoft  
@@ -28,7 +28,7 @@ This repository showcases the internships I have completed, reflecting my journe
 - **⏳ Weeks**: 4 weeks  
 - **🛠 Skills**: JavaScript, HTML5, CSS  
 - **💻 Internship Type**: Virtual  
-- **🔗 Repository**: [CodSoft_JS](https://github.com/Vasu10134/CodSoft_JS)
+- **🔗 Repository**: [CodSoft Javascript](https://github.com/Vasu10134/codsoft-javascript)
 
 ### 4. **Java Developer**  
 - **🏢 Organization**: CodSoft  
@@ -36,7 +36,7 @@ This repository showcases the internships I have completed, reflecting my journe
 - **⏳ Weeks**: 4 weeks  
 - **🛠 Skills**: Java  
 - **💻 Internship Type**: Virtual  
-- **🔗 Repository**: [CODSOFT_JAVA](https://github.com/Vasu10134/CODSOFT_JAVA)
+- **🔗 Repository**: [CodSoft Java](https://github.com/Vasu10134/codsoft-java)
 
 ### 5. **C++ Developer**  
 - **🏢 Organization**: CodSoft  
@@ -44,4 +44,4 @@ This repository showcases the internships I have completed, reflecting my journe
 - **⏳ Weeks**: 4 weeks  
 - **🛠 Skills**: C++, Data Structures, Algorithms  
 - **💻 Internship Type**: Virtual  
-- **🔗 Repository**: [CodSoft_CPP](https://github.com/Vasu10134/CodSoft_CPP)
+- **🔗 Repository**: [CodSoft C++](https://github.com/Vasu10134/codsoft-cpp)
