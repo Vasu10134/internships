@@ -8,7 +8,7 @@ This repository showcases the internships I have completed, reflecting my journe
 
 ### 1. **AWS Intern**  
 - **🏢 Organization**: Forage - Accenture  
-- **📅 Duration**: October 1, 2024 – December 30, 2024  
+- **📅 Duration**: October 2024 – December 2024  
 - **⏳ Weeks**: 12 weeks  
 - **🛠 Skills**: AWS Elastic Beanstalk, EC2, RDS, S3, Route 53, Elastic Load Balancer, CodePipeline, Python, Bash  
 - **💻 Internship Type**: Virtual  
@@ -16,7 +16,7 @@ This repository showcases the internships I have completed, reflecting my journe
 
 ### 2. **DevOps Developer**  
 - **🏢 Organization**: Forage - Accenture  
-- **📅 Duration**: September 1, 2024 – November 30, 2024  
+- **📅 Duration**: September 2024 – November 2024  
 - **⏳ Weeks**: 12 weeks  
 - **🛠 Skills**: Java, Spring Boot, Jenkins, Agile Development  
 - **💻 Internship Type**: Virtual  
@@ -24,9 +24,9 @@ This repository showcases the internships I have completed, reflecting my journe
 
 ### 3. **JavaScript Developer**  
 - **🏢 Organization**: CodSoft  
-- **📅 Duration**: August 2024 – August, 2024  
+- **📅 Duration**: August 2024 – August 2024  
 - **⏳ Weeks**: 4 weeks  
-- **🛠 Skills**: JavaScript, HTML5, CSS  
+- **🛠 Skills**: JavaScript, DOM
 - **💻 Internship Type**: Virtual  
 - **🔗 Repository**: [CodSoft Javascript](https://github.com/Vasu10134/codsoft-javascript)
 
