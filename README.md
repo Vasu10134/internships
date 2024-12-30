@@ -24,7 +24,7 @@ This repository showcases the internships I have completed, reflecting my journe
 
 ### 3. **JavaScript Developer**  
 - **🏢 Organization**: CodSoft  
-- **📅 Duration**: March 25, 2024 – April 25, 2024  
+- **📅 Duration**: August 2024 – August, 2024  
 - **⏳ Weeks**: 4 weeks  
 - **🛠 Skills**: JavaScript, HTML5, CSS  
 - **💻 Internship Type**: Virtual  
@@ -32,15 +32,15 @@ This repository showcases the internships I have completed, reflecting my journe
 
 ### 4. **Java Developer**  
 - **🏢 Organization**: CodSoft  
-- **📅 Duration**: December 10, 2024 – January 10, 2025  
+- **📅 Duration**: July 2024 – July 2024  
 - **⏳ Weeks**: 4 weeks  
-- **🛠 Skills**: Java  
+- **🛠 Skills**: Java, OOP's  
 - **💻 Internship Type**: Virtual  
 - **🔗 Repository**: [CodSoft Java](https://github.com/Vasu10134/codsoft-java)
 
 ### 5. **C++ Developer**  
 - **🏢 Organization**: CodSoft  
-- **📅 Duration**: January 20, 2024 – February 20, 2024  
+- **📅 Duration**: June 2024 – June 2024  
 - **⏳ Weeks**: 4 weeks  
 - **🛠 Skills**: C++, Data Structures, Algorithms  
 - **💻 Internship Type**: Virtual  
