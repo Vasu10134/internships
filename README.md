@@ -14,15 +14,7 @@ This repository showcases the internships I have completed, reflecting my journe
 - **💻 Internship Type**: Virtual  
 - **🔗 Repository**: [AWS Hosting Architecture](https://github.com/Vasu10134/AWS-hosting-architecture)
 
-### 2. **DevOps Developer**  
-- **🏢 Organization**: Forage - Accenture  
-- **📅 Duration**: September 2024 – October 2024  
-- **⏳ Weeks**: 8 weeks  
-- **🛠 Skills**: Java, Spring Boot, Jenkins, Agile Development  
-- **💻 Internship Type**: Virtual  
-- **🔗 Repository**: [Accenture Forage](https://github.com/Vasu10134/accenture-forage)
-
-### 3. **JavaScript Developer**  
+### 2. **JavaScript Developer**  
 - **🏢 Organization**: CodSoft  
 - **📅 Duration**: August 2024 – August 2024  
 - **⏳ Weeks**: 4 weeks  
@@ -30,7 +22,7 @@ This repository showcases the internships I have completed, reflecting my journe
 - **💻 Internship Type**: Virtual  
 - **🔗 Repository**: [CodSoft Javascript](https://github.com/Vasu10134/codsoft-javascript)
 
-### 4. **Java Developer**  
+### 3. **Java Developer**  
 - **🏢 Organization**: CodSoft  
 - **📅 Duration**: July 2024 – July 2024  
 - **⏳ Weeks**: 4 weeks  
@@ -38,10 +30,11 @@ This repository showcases the internships I have completed, reflecting my journe
 - **💻 Internship Type**: Virtual  
 - **🔗 Repository**: [CodSoft Java](https://github.com/Vasu10134/codsoft-java)
 
-### 5. **C++ Developer**  
+### 4. **C++ Developer**  
 - **🏢 Organization**: CodSoft  
 - **📅 Duration**: June 2024 – June 2024  
 - **⏳ Weeks**: 4 weeks  
 - **🛠 Skills**: C++, Data Structures, Algorithms  
 - **💻 Internship Type**: Virtual  
 - **🔗 Repository**: [CodSoft C++](https://github.com/Vasu10134/codsoft-cpp)
+- 
