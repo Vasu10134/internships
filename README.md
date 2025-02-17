@@ -7,12 +7,12 @@ This repository showcases the internships I have completed, reflecting my journe
 ## 💼 Internships
 
 ### 1. **AWS Intern**  
-- **🏢 Organization**: Forage - Accenture  
+- **🏢 Organization**: Forage - AWS  
 - **📅 Duration**: November 2024 – December 2024  
 - **⏳ Weeks**: 8 weeks  
 - **🛠 Skills**: AWS Elastic Beanstalk, EC2, RDS, S3, Route 53, Elastic Load Balancer, CodePipeline, Python, Bash  
 - **💻 Internship Type**: Virtual  
-- **🔗 Repository**: [AWS Hosting Architecture](https://github.com/Vasu10134/AWS-hosting-architecture)
+- **🔗 Repository**: [AWS Hosting Architecture](https://github.com/Vasu10134/AWS-Virtual-Simulation)
 
 ### 2. **JavaScript Developer**  
 - **🏢 Organization**: CodSoft  
